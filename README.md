@@ -24,3 +24,5 @@ Referências importantes para leitura:
 
 ## SRE Google Recomendations
 [Google SRE](https://sre.google/resources/)
+
+[SRE Book Google translated in PT-BR](https://elven.works/livro-sre-google/)
