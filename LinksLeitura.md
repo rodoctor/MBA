@@ -21,3 +21,6 @@ Referências importantes para leitura:
 
 ## AWS Well-Architected
 [AWS Well-Architected](https://aws.amazon.com/pt/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
+
+## SRE Google Recomendations
+[Google SRE] (https://sre.google/resources/)
