@@ -26,3 +26,14 @@ Referências importantes para leitura:
 [Google SRE](https://sre.google/resources/)
 
 [SRE Book Google translated in PT-BR](https://elven.works/livro-sre-google/)
+
+## Design Docs
+[Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#the-design-doc-lifecycle)
+
+[Uma introdução aos Design Docs](https://medium.com/inside-picpay/uma-introdu%C3%A7%C3%A3o-aos-design-docs-8590f28f4cc1)
+
+[How to write an effective design document](https://rinaarts.com/how-to-write-an-effective-design-document/)
+
+[Botaro Cássio no Youtube - Design Docs](https://www.youtube.com/watch?v=7V3zX1IZLyw)
+
+[Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
