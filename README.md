@@ -37,3 +37,6 @@ Referências importantes para leitura:
 [Botaro Cássio no Youtube - Design Docs](https://www.youtube.com/watch?v=7V3zX1IZLyw)
 
 [Companies Using RFCs or Design Docs and Examples of These](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
+
+## Software Architecture
+[Leis de Lehman](https://users.ece.utexas.edu/~perry/work/papers/feast1.pdf)
