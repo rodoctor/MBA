@@ -40,3 +40,5 @@ Referências importantes para leitura:
 
 ## Software Architecture
 [Leis de Lehman](https://users.ece.utexas.edu/~perry/work/papers/feast1.pdf)
+
+[Neal Ford: Building Evolutionary Architectures - Craft Conference 2019](https://www.youtube.com/watch?v=xJj9vgDz33U&ab_channel=CraftHubEvents)
