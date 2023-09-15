@@ -42,3 +42,6 @@ Referências importantes para leitura:
 [Leis de Lehman](https://users.ece.utexas.edu/~perry/work/papers/feast1.pdf)
 
 [Neal Ford: Building Evolutionary Architectures - Craft Conference 2019](https://www.youtube.com/watch?v=xJj9vgDz33U&ab_channel=CraftHubEvents)
+
+## Hexagonal Architecture and Clean Architecture
+[Post about the hexagonal architecture - Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
